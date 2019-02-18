@@ -1,1 +1,1 @@
-worker: python simplification1.py
+worker: python simplification2.py
