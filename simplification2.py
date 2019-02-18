@@ -5,7 +5,7 @@ from tkinter import *
 import threading
 from binance.client import Client
 from pushbullet import Pushbullet
-client = Client("ncjfbm0ZJwzIg5riOIqjqiBw6LCm28h8481iorY6SvlxKOQxvAMulp852YNWJtTL","vqemkyWSUnQJAR4AcZu6mdtrqzgJ8ew7lcOJzsskZpfeNfKmZc2l0hnrPqBsa34i")
+client = Client("a","b")
 
 
 #quantity= '0.001'
