@@ -47,7 +47,7 @@ mycol_percentage = mydb_percentage ["data"]     # collection is mongo is same as
 
 # shoterning techniques
 
-percentage = 2
+percentage = 3
 
 
 ## mda ##
